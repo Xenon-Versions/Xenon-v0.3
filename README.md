@@ -30,11 +30,11 @@ git clone https://github.com/Xenon-Versions/Xenon-v0.3
 
 5. Navigate to the cloned directory:
 
-<pre>cd Xenon-v0.3</pre>
+<pre><code>cd Xenon-v0.3</code></pre>
 
 6. Start Xenon by running the following command:
 
-python Xenon-v0.3
+<pre><code>python Xenon-v0.3</code></pre>
 
 7. Done! Xenon is now ready.
 
