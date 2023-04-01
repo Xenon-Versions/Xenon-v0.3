@@ -26,7 +26,7 @@ To install and run Xenon on your Windows machine, follow these steps:
 3. Open Windows PowerShell.
 4. Clone this repository by running the following command:
 
-git clone https://github.com/Xenon-Versions/Xenon-v0.3
+<pre><code>git clone https://github.com/Xenon-Versions/Xenon-v0.3</code></pre>
 
 5. Navigate to the cloned directory:
 
