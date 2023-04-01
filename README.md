@@ -17,15 +17,26 @@ Xenon includes the following features:
 - File management commands
 - Window handling commands
 
-##Installation
-- Install git from [here](https://github.com/git-for-windows/git/releases/download/v2.40.0.windows.1/Git-2.40.0-64-bit.exe)
-- Install python from Microsoft store
--Go to windows poweshell
--Clone this repo
-<pre><code>git clone https://github.com/Xenon-Versions/Xenon-v0.3<code></pre>
--Start Xenon
-<pre><code>python Xenon-v0.3</code></pre>
--Done
+## Installation
+
+To install and run Xenon on your Windows machine, follow these steps:
+
+1. Install Git from [here](https://github.com/git-for-windows/git/releases/download/v2.40.0.windows.1/Git-2.40.0-64-bit.exe).
+2. Install Python from the Microsoft Store or from the [official website](https://www.python.org/downloads/).
+3. Open Windows PowerShell.
+4. Clone this repository by running the following command:
+
+git clone https://github.com/Xenon-Versions/Xenon-v0.3
+
+5. Navigate to the cloned directory:
+
+cd Xenon-v0.3
+
+6. Start Xenon by running the following command:
+
+python Xenon-v0.3
+
+7. Done! Xenon is now ready.
 
 ## Contributing
 
