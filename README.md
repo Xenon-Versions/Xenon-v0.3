@@ -30,7 +30,7 @@ git clone https://github.com/Xenon-Versions/Xenon-v0.3
 
 5. Navigate to the cloned directory:
 
-cd Xenon-v0.3
+<pre>cd Xenon-v0.3</pre>
 
 6. Start Xenon by running the following command:
 
