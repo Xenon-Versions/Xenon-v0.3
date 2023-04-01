@@ -1,37 +1,25 @@
-<!DOCTYPE html>
-<html>
-<head>
-	<title>Xenon v0.3</title>
-</head>
-<body>
-	<h1>Xenon v0.3</h1>
-	<p>Xenon is an open-source python based desktop helper progrme designed for Windows</p>
+Xenon v0.3
+Xenon is an open-source python-based desktop helper program designed for Windows.
 
-	<h2>Getting Started</h2>
-	<ol>
-		<li>Go to <a href="https://hostserver001.github.io/xenon.web">this website</a></li>
-	</ol>
+Getting Started
+To get started with Xenon, follow these steps:
 
-	<h2>Features</h2>
-	<ul>
-		<li>Whatsapp automation</li>
-		<li>Local python server hosting</li>
-		<li>File management commands</li>
-		<li>Window handling commands</li>
-	</ul>
+Go to this website.
+Features
+Xenon includes the following features:
 
-	<h2>Contributing</h2>
-	<p>We welcome contributions to Xenon! To contribute, follow these steps:</p>
-	<ol>
-		<li>Fork this repository.</li>
-		<li>Make your changes and commit them to your fork.</li>
-		<li>Submit a pull request.</li>
-	</ol>
+Whatsapp automation
+Local Python server hosting
+File management commands
+Window handling commands
+Contributing
+We welcome contributions to Xenon! To contribute, follow these steps:
 
-	<h2>License</h2>
-	<p>Xenon is released under the no license. </p>
+Fork this repository.
+Make your changes and commit them to your fork.
+Submit a pull request.
+License
+Xenon is released under no license.
 
-	<h2>Contact</h2>
-	<p>If you have any questions or comments about Xenon, please contact no name</p>
-</body>
-</html>
+Contact
+If you have any questions or comments about Xenon, please contact no name.
