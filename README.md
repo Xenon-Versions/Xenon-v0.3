@@ -22,9 +22,11 @@ Xenon includes the following features:
 To install and run Xenon on your Windows machine, follow these steps:
 
 1. Install Git from [here](https://github.com/git-for-windows/git/releases/download/v2.40.0.windows.1/Git-2.40.0-64-bit.exe).
-2. Install Python from the Microsoft Store or from the [official website](https://www.python.org/downloads/).
-3. Open Windows PowerShell.
-4. Clone this repository by running the following command:
+2. Install Python from the [Microsoft Store](https://www.microsoft.com/en-us/p/python-39/9p7qfqmjrfp7?rtc=1&activetab=pivot:overviewtab).
+[or]
+Install it from [official website](https://www.python.org/downloads/)
+4. Open Windows PowerShell.
+5. Clone this repository by running the following command:
 
 <pre><code>git clone https://github.com/Xenon-Versions/Xenon-v0.3</code></pre>
 
