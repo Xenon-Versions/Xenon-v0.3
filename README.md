@@ -24,7 +24,7 @@ Xenon includes the following features:
 -Clone this repo
 <pre><code>git clone https://github.com/Xenon-Versions/Xenon-v0.3<code></pre>
 -Start Xenon
-<pre><code>python Xenon-v0.3</code></pre>
+<code>python Xenon-v0.3</code>
 
 ## Contributing
 
