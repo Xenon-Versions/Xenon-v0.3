@@ -54,4 +54,4 @@ Xenon is released under no license.
 
 ## Contact
 
-If you have any questions or comments about Xenon, please contact no name.
+If you have any questions or comments about Xenon, please contact on [support group](https://hostserver001.github.io/xenon.web/#support)
