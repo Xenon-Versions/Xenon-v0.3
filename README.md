@@ -1,6 +1,6 @@
 # Xenon v0.3
 
-Xenon is an open-source python-based desktop helper program designed for Windows.
+Xenon is an open-source python-based helper program designed for Windows.
 
 ## Getting Started
 
