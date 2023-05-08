@@ -6,7 +6,7 @@ Xenon is an open-source python-based helper program designed for Windows.
 
 To get started with Xenon, follow these steps:
 
-1. Go to [this website](https://hostserver001.github.io/xenon.web) for latest version.
+1. Go to [this website](https://hostserver001.github.io/xenon.com) for latest version.
 
 ## Features
 
